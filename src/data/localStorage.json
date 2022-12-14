@@ -1,0 +1,8 @@
+{
+    "users": [
+        { "firstName": "Ivan", "lastName": "Sanczewski", "email": "I@user.com", "password": "123"},
+        { "firstName": "Pau", "lastName": "Sánchez", "email": "he@user.com", "password": "123"},
+        { "firstName": "Gabi", "lastName": "Paske", "email": "she@user.com", "password": "123"},
+        { "firstName": "LIENE", "lastName": "Sancesa-Pinto", "email": "small@user.com", "password": "123"}
+    ]
+}
